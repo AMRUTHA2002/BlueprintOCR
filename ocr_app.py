@@ -6,7 +6,7 @@ import streamlit_authenticator as stauth
 import pickle
 from pathlib import Path
 
-st.set_page_config(page_title="Blueprint OCR", page_icon=":🔎:", layout="wide")
+st.set_page_config(page_title="Blueprint OCR", page_icon=":🔎:")
 
 # --- USER AUTHENTICATION ---
 names = ["Amrutha", "Ansika"]
