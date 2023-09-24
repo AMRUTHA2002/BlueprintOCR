@@ -1,0 +1,6 @@
+easyocr
+nltk
+numpy
+streamlit
+Pillow
+
