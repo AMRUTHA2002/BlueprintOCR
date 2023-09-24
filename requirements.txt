@@ -2,5 +2,6 @@ easyocr
 nltk
 numpy
 streamlit
+streamlit-authenticator==0.1.5
 Pillow
 
